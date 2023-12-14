@@ -1,0 +1,15 @@
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\bin\Debug\net8.0\task 002.exe
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\bin\Debug\net8.0\task 002.deps.json
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\bin\Debug\net8.0\task 002.runtimeconfig.json
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\bin\Debug\net8.0\task 002.dll
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\bin\Debug\net8.0\task 002.pdb
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.AssemblyInfoInputs.cache
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.AssemblyInfo.cs
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.sourcelink.json
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.dll
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\refint\task 002.dll
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.pdb
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\task 002.genruntimeconfig.cache
+C:\Users\Вероника\Desktop\gb\ДЗ к семинарам\Семинар 3 дз\Tasks\task 002\obj\Debug\net8.0\ref\task 002.dll
